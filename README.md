@@ -1,5 +1,7 @@
 ![banner](https://raw.githubusercontent.com/kausko/kausko/main/BannerFade.gif?token=AMW772TIF2GRHHT5OIOHOEK7UDQNY)
+<p align="center">
 I am Kaustubh Odak, a full-stack web and mobile developer pursuing a Bachelor's degree in Computer Engineering from Pune Institute of Computer Technology. I strive to make working applications with a simple and easy to use UI. When I'm not coding, I play video games, listen to music, read comics or scroll through Reddit.
+</p>
 <hr>
 <div align="center">
 
@@ -11,6 +13,9 @@ I am Kaustubh Odak, a full-stack web and mobile developer pursuing a Bachelor's 
   <br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kausko&theme=radical&layout=compact" />
-  </a>[<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />]()  [<img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge" />]()  [<img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />]()  [<img src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />]()  [<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />]()
+  </a>
+  <hr>
+<h2 align="center">Skills</h2>
+  [<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />]()  [<img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge" />]()  [<img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />]()  [<img src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />]()  [<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />]()
   [<img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" />]()  [<img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" />]()  [<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" />]()
 </div>
