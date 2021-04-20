@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/kaustubh-odak">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://drive.google.com/file/d/1LzsaH1dL2aBjrwcOYfu71ciVHN9xIkQ8/view?usp=sharing">
+  <a href="https://kaustubhodak.me/resume.pdf">
     <img src="https://img.shields.io/badge/resume-%234285F4.svg?&style=for-the-badge&logo=google-drive&logoColor=white"/>
   </a>
   <a href="kaustubh#4489">
