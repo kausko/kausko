@@ -3,7 +3,6 @@
 <h1 align="center">About me</h1>
 <p align="center">I am a full-stack cross-platform app developer, pursuing my B.E in Computer Engineering from Pune Institute of Computer Technology. I strive to make meaningful applications with best UI practices.</p>
 
-<br/>
 
 <p align="center">
   <a href="https://kaustubhodak.me">
@@ -19,7 +18,6 @@
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
 </p>
-<br/>
 
 <h1 align="center">Languages known</h1>
 <p align="center">
@@ -32,7 +30,6 @@
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
 </p>
 
-<br/>
 
 <h1 align="center">Technologies used</h1>
 <p align="center">
@@ -59,11 +56,9 @@
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 </p>
 
-<br/>
 
 <h1 align="center">GitHub stats</h1>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kausko&theme=react&show_icons=true&count_private=true&include_all_commits=true&line_height=24"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kausko&hide=kotlin&theme=react&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats"/>
 </p>
-
