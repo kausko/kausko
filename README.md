@@ -1,7 +1,7 @@
 ![banner](https://raw.githubusercontent.com/kausko/kausko/main/BannerFade.gif?token=AMW772TIF2GRHHT5OIOHOEK7UDQNY)
 
 <h1 align="center">About me</h1>
-<p align="center">I am a full-stack cross-platform app developer, pursuing my B.E in Computer Engineering from Pune Institute of Computer Technology. I strive to make meaningful applications with best UI practices.</p>
+<p align="center">I am a full-stack cross-platform app developer, pursuing my Master's degree in Computer Science from Georgia Institute of Technology. I strive to make meaningful applications with best UI practices.</p>
 
 
 <p align="center">
